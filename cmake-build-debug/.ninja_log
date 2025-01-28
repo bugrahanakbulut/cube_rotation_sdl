@@ -1,0 +1,8 @@
+# ninja log v6
+1	222	7597880752450638	build.ninja	c94aeddc7bafb63d
+2	282	7597909486953988	CMakeFiles/cube_rotation.dir/main.c.obj	c65a5a12f51b5fc5
+283	353	7597909489756156	cube_rotation.exe	e5f9e1a7bef5a6e8
+4	304	7597910270921862	CMakeFiles/cube_rotation.dir/main.c.obj	c65a5a12f51b5fc5
+305	391	7597910273916980	cube_rotation.exe	e5f9e1a7bef5a6e8
+4	291	7597910512122262	CMakeFiles/cube_rotation.dir/main.c.obj	c65a5a12f51b5fc5
+291	361	7597910514999353	cube_rotation.exe	e5f9e1a7bef5a6e8
