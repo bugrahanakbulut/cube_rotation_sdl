@@ -5,8 +5,6 @@
 #define SCREEN_WIDTH 900
 #define SCREEN_HEIGHT 600
 
-#define WHITE 0xFFFFFFFF
-
 #define DEG2RAD 0.01745329251
 
 struct Point
