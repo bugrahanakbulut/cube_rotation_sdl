@@ -1,3 +1,0 @@
-C:/Users/akbul/OneDrive/Masaüstü/workspace/cube_rotation/cmake-build-debug/CMakeFiles/cube_rotation.dir
-C:/Users/akbul/OneDrive/Masaüstü/workspace/cube_rotation/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/akbul/OneDrive/Masaüstü/workspace/cube_rotation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
